@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.InputApp {
+  display: inline-block;
+}
+
+.Button {
+  height: 30px;
+  width: 90px;
+  font-weight: bold;
+  font-size: 17px;
+  margin: 10px;
+}
+
+.Header {
+  font-weight: bolder;
+  font-size: 55px;
+  margin-top: 10px;
+}
+
+.ConnectWallet {
+  height: 50px;
+  border-radius: 20px;
+  border-style: dotted;
+  width: 340px;
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
+  background-color: lightgray;
+  margin: 350px;
+}
+
+.InputForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.InputLine {
+  margin: 7px;
+}
+
+.ToastMessage {
+  font-size: 20px;
+  width: 120%;
+}
